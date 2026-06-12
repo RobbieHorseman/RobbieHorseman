@@ -1,6 +1,29 @@
 # 👋 Hi, I'm José Roberto López Carballo
 
 Building technology for Risk Analysis, Disaster Risk Management, and Emergency Management.
+
+## 🛠 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-6.0-orange)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue)
+![Xcode](https://img.shields.io/badge/Xcode-IDE-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![AI](https://img.shields.io/badge/AI-Assisted-purple)
+
+## 🚨 Domain Expertise
+
+![Risk Analysis](https://img.shields.io/badge/Risk-Analysis-red)
+![Emergency Management](https://img.shields.io/badge/Emergency-Management-orange)
+![Civil Protection](https://img.shields.io/badge/Civil-Protection-yellow)
+![Process Safety](https://img.shields.io/badge/Process-Safety-darkred)
+
+## 💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobbieHorseman&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbieHorseman&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=RobbieHorseman)
+
 ## 🚀 Main Projects
 
 ### 🔥 XiuhFire
